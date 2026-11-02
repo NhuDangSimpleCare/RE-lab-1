@@ -1,0 +1,1 @@
+folder này để code BackEnd sử dụng công nghệ FastAPI và lưu trữ dữ liệu trên mysql và ổ cứng server local cho các file ảnh, tài liệu, vv

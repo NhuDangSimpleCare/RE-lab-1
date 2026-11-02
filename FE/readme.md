@@ -1,0 +1,1 @@
+folder này để code FrontEnd dùng công nghệ HTML CSS JS, không nên dùng Reac next vue để tránh làm khó cho những bạn chưa học FE nâng cao.
